@@ -10,7 +10,7 @@
 <a href="#Como-executar-o-projeto">como Executar</a> • 
 <a href="#Tecnologias-utilizadas">Tecnologias</a> •   
 <a href="#autor">Autor</a> •
-<a href="#licenc-a">Licença</a> 
+<a href="#licença">Licença</a> 
 </p>
 
 ### funcionalidades
