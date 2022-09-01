@@ -22,9 +22,10 @@
 - [ ] uma opção de salvar para poder acrescentar ou reeditar mais facil
 
 ### Demostração da Aplicação
-A ideia principal é ter um ponto de partida para a geração de um bom readme.
-\n!O README SAI NO LOG DO NAVEGADOR!(temporario)
-\n[Link para ver funcionando](https://resplendent-pothos-70778f.netlify.app/)
+<p>A ideia principal é ter um ponto de partida para a geração de um bom readme.</p>
+<p>!O README SAI NO LOG DO NAVEGADOR!(temporario)</p>
+
+[Link para ver funcionando](https://resplendent-pothos-70778f.netlify.app/)
 ![Tela da aplicação.](./project.png)
 
 
