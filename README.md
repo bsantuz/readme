@@ -26,6 +26,7 @@
 <p>!O README SAI NO LOG DO NAVEGADOR!(temporario)</p>
 
 <p><a href="https://resplendent-pothos-70778f.netlify.app/">Link para ver funcionando</a></p>
+
 ![Tela da aplicação.](./project.png)
 
 
