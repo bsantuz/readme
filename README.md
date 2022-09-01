@@ -25,7 +25,7 @@
 <p>A ideia principal é ter um ponto de partida para a geração de um bom readme.</p>
 <p>!O README SAI NO LOG DO NAVEGADOR!(temporario)</p>
 
-[Link para ver funcionando](https://resplendent-pothos-70778f.netlify.app/)
+<p>[Link para ver funcionando](https://resplendent-pothos-70778f.netlify.app/)</p>
 ![Tela da aplicação.](./project.png)
 
 
