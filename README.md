@@ -23,8 +23,8 @@
 
 ### Demostração da Aplicação
 A ideia principal é ter um ponto de partida para a geração de um bom readme.
-!O README SAI NO LOG DO NAVEGADOR!(temporario)
-[Link para ver funcionando](https://resplendent-pothos-70778f.netlify.app/)
+\n!O README SAI NO LOG DO NAVEGADOR!(temporario)
+\n[Link para ver funcionando](https://resplendent-pothos-70778f.netlify.app/)
 ![Tela da aplicação.](./project.png)
 
 
