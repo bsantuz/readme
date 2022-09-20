@@ -16,10 +16,9 @@
 ### funcionalidades
 - [x] Layout simples
 - [x] Funcionalidade basica
-- [ ] Deixar o Layout mais amigavel
-- [ ] Acrescentar outras funcionalidades
-- [ ] Gerar um arquivo .txt 
-- [ ] uma opção de salvar para poder acrescentar ou reeditar mais facil
+- [x] Deixar o Layout mais amigavel
+- [x] Acrescentar outras funcionalidades
+- [x] uma opção de salvar para poder acrescentar ou reeditar mais facil
 
 ### Demostração da Aplicação
 <p>A ideia principal é ter um ponto de partida para a geração de um bom readme.</p>
